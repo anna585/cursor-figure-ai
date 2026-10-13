@@ -3,7 +3,7 @@
 Prints an `N` by `N` square of stars to the console.
 
 ```bash
-node square.js 5
+node start-square.js 5
 ```
 
 Prints a circle of radius `R` to the console. Default is filled; pass `outline` for a ring.
